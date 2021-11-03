@@ -27,7 +27,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![image of entropie](https://external-preview.redd.it/K03Se366JnA_orNyeyhg7EwMVI03ausB0mQCE4-v_Fc.png?auto=webp&s=7f63c3fbfd269f362c1860474352beb6b9f232e3)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://www.shutterstock.com/de/image-illustration/particle-quantum-entanglement-correlation-mechanics-3d-1457191784" width="300">
+<img src="https://external-preview.redd.it/Jkhnx4hLkadifju64EDF3d1z1oayKuNZxl_CSP2dlGw.jpg?auto=webp&s=a9adf499c107f8765bdd4d31ff922da839d6e0b3" width="300">
 
 This is how you create code examples:
 ```
